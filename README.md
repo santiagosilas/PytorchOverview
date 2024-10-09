@@ -21,6 +21,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvi
 Instale também
 ```bash:
 conda install -c conda-forge notebook ipykernel
+pip3 install  scikit-learn
 ```
 
 Registre o kernel
